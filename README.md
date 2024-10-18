@@ -1,5 +1,8 @@
-### You can visit and interact all my React projects through this link.
-### [Visit my projects](https://all-react-project.netlify.app)
+### Hi there! 👋
+### Check out my portfolio: [yigit-baris.vercel.app](https://yigit-baris.vercel.app)
+
+
+
 
 <!--
 **yigitbaris/yigitbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
